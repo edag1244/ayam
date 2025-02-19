@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saiful Azmi Tobat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #006400;
+            text-align: center;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #006400;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #004d00;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Saiful Azmi Tobat Kepada Ustadz Maulana Alex</h1>
+        <p>Dengan segala kerendahan hati, saya, Saiful Azmi, ingin mengungkapkan penyesalan yang mendalam atas perbuatan buruk yang telah saya lakukan selama ini. Selama bertahun-tahun, saya terjerumus ke dalam kebiasaan yang sangat tidak baik, yaitu menonton konten-konten yang tidak sesuai dengan ajaran agama. Saya sadar bahwa hal ini tidak hanya merusak pikiran dan hati saya, tetapi juga menjauhkan saya dari jalan yang benar.</p>
+
+        <p>Saat ini, saya merasa sangat bersalah dan berdosa atas perbuatan tersebut. Tidak hanya kepada diri saya sendiri, tetapi juga kepada keluarga, teman-teman, dan orang-orang di sekitar saya yang mungkin merasa terganggu atau terpengaruh oleh tindakan saya. Saya menyadari bahwa perbuatan ini sangat merusak, dan saya bertekad untuk meninggalkan kebiasaan buruk tersebut demi masa depan yang lebih baik.</p>
+
+        <p>Oleh karena itu, saya memohon dengan tulus kepada Ustadz Maulana Alex untuk memberikan nasihat, petunjuk, dan bimbingan agar saya bisa keluar dari jeratan dosa ini. Saya sadar bahwa dengan meninggalkan kebiasaan buruk ini, saya dapat lebih fokus pada hal-hal yang positif, seperti belajar, beribadah, dan memperbaiki diri menjadi pribadi yang lebih baik. Saya berharap agar Ustadz dapat membimbing saya dalam perjalanan tobat ini, karena saya yakin dengan bimbingan yang tepat, saya bisa menjaga diri dari godaan-godaan tersebut.</p>
+
+        <p>Saya berjanji untuk tidak kembali mengulangi perbuatan yang salah ini. Saya akan berusaha keras untuk menjaga mata dan hati saya agar tidak terjerumus ke dalam hal-hal yang dapat merusak jiwa dan akhlak saya. Saya juga bertekad untuk lebih dekat dengan Allah, memperbanyak ibadah, dan selalu berusaha untuk menjadi pribadi yang lebih baik.</p>
+
+        <p>Saya berharap Ustadz dapat mendoakan saya agar diberikan kekuatan dan kesabaran dalam menjalani proses tobat ini. Semoga Allah memberi saya petunjuk dan kekuatan untuk terus berada di jalan yang benar, serta selalu menjaga hati dan pikiran saya dari hal-hal yang tidak baik.</p>
+
+        <p>Terima kasih atas segala perhatian dan bimbingan yang akan diberikan. Semoga dengan izin Allah, saya bisa menjadi pribadi yang lebih baik, lebih dekat dengan-Nya, dan lebih berguna bagi orang lain.</p>
+
+        <a href="#" class="button">Doakan Saya</a>
+    </div>
+
+</body>
+</html>
